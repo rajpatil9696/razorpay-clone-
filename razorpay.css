@@ -1,0 +1,16 @@
+#section1{
+    background-image: url(./feature-section-2BG.svg);
+}
+#raj{
+    background-image: url(./instant-settlement-bg.svg);
+}
+#raj:hover{
+ background-image: url(./instant-settlement-bghover.svg);
+}
+#section7{
+    background-image: url(./core-features-sectionBg.svg);
+}
+#section10{
+    background-image: url(./CTABg.svg);
+    background-size: 100% 100%;
+}
